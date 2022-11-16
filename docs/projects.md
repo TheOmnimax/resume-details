@@ -11,6 +11,7 @@ These are apps and projects I created to demonstrate my skills as a full-stack d
 ### Repositories
  * [Client app](https://github.com/TheOmnimax/ereader)
  * [Backend server](https://github.com/TheOmnimax/ebook-server)
+ * [Ebook uploader client app](https://github.com/TheOmnimax/ebook_uploader)
 
 ### About
 
