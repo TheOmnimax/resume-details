@@ -22,13 +22,13 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 
 ### Boggle
 
-| <img src="images/boggle/host_game.png" style="width:135px" /> | <img src="images/boggle/join_game.png" style="width:135px" /> |
+| <img src="images/boggle/host_game.png" style="width:300px"  /> | <img src="images/boggle/join_game.png" style="width:350px" /> |
 |:--:|:--:|
-| Results | Results |
+| Host game | Join game |
 
-| <img src="images/boggle/playing.png" style="width:135px" /> | <img src="images/boggle/results.png" style="width:135px" /> |
+| <img src="images/boggle/playing.png" style="width:480px" /> | <img src="images/boggle/results.png" style="width:480px" /> |
 |:--:|:--:|
-| Results | Results |
+| Playing | Results |
 
  * [Client app](https://github.com/TheOmnimax/boggle_flutter)
  * [Backend server](https://github.com/TheOmnimax/boggle-server)
