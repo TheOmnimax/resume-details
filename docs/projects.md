@@ -33,11 +33,11 @@ This app uses the following:
 
 ## Boggle
 
-| <img src="../images/boggle/host_game.png" style="width:200px"  /> | <img src="../images/boggle/join_game.png" style="width:200px" /> |
+| <img src="../images/boggle/host_game.png" style="width:300px"  /> | <img src="../images/boggle/join_game.png" style="width:350px" /> |
 |:--:|:--:|
 | Host game | Join game |
 
-| <img src="../images/boggle/playing.png" style="width:240px" /> | <img src="../images/boggle/results.png" style="width:240px" /> |
+| <img src="../images/boggle/playing.png" style="width:480px" /> | <img src="../images/boggle/results.png" style="width:480px" /> |
 |:--:|:--:|
 | Playing | Results |
 
