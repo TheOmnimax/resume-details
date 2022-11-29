@@ -22,11 +22,11 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 
 ### Boggle
 
-| <img src="images/boggle/host_game.png" /> | <img src="images/boggle/join_game.png" /> |
+| <img src="images/boggle/host_game.png" style="width:300px"  /> | <img src="images/boggle/join_game.png" style="width:350px" /> |
 |:--:|:--:|
 | Host game | Join game |
 
-| <img src="images/boggle/playing.png" style="width:240px" /> | <img src="images/boggle/results.png" style="width:240px" /> |
+| <img src="images/boggle/playing.png" style="width:480px" /> | <img src="images/boggle/results.png" style="width:480px" /> |
 |:--:|:--:|
 | Playing | Results |
 
