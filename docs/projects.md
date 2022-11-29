@@ -33,13 +33,13 @@ This app uses the following:
 
 ## Boggle
 
-| <img src="../images/boggle/host_game.png" style="width:135px" /> | <img src="../images/boggle/join_game.png" style="width:135px" /> |
+| <img src="../images/boggle/host_game.png" style="width:200px"  /> | <img src="../images/boggle/join_game.png" style="width:200px" /> |
 |:--:|:--:|
-| Results | Results |
+| Host game | Join game |
 
-| <img src="../images/boggle/playing.png" style="width:135px" /> | <img src="../images/boggle/results.png" style="width:135px" /> |
+| <img src="../images/boggle/playing.png" style="width:240px" /> | <img src="../images/boggle/results.png" style="width:240px" /> |
 |:--:|:--:|
-| Results | Results |
+| Playing | Results |
 
 ### Repositories
 
