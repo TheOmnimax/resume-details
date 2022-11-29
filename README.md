@@ -4,7 +4,7 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 
 **Table of contents**
 
- * [Single-page resume](/docs/resume.md)
+ * [Short resume](/docs/resume.md) ([single-page PDF](/docs/max_s_habermans_resume.pdf))
  * [Work experience](/docs/work-experience.md)
  * [Projects](/docs/projects.md) (includes links to all project repositories)
 
