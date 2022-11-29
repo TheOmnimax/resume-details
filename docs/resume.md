@@ -43,8 +43,7 @@ Dart, Flutter, Firebase Authentication, Firestore, Python, FastAPI, Flask, WebSo
 
 ## Work Experience
 
-**Dobility, Inc**&ensp;&ensp;&ensp;&ensp;Cambridge, MA
-
+**Dobility, Inc**&ensp;&ensp;&ensp;&ensp;Cambridge, MA  
 Technical Support Associate&ensp;&ensp;&ensp;&ensp;June 2019 - Present
 
 * Developed 17 of the 40 total field plug-ins using frontend web development, and contributed in some way to most of the others, to enhance the capabilities of our software. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
@@ -55,15 +54,13 @@ Technical Support Associate&ensp;&ensp;&ensp;&ensp;June 2019 - Present
 * Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
 
-**LANConnect Systems, Inc**&ensp;&ensp;&ensp;&ensp;Foxborough, MA
-
+**LANConnect Systems, Inc**&ensp;&ensp;&ensp;&ensp;Foxborough, MA  
 Technical Support Associate&ensp;&ensp;&ensp;&ensp;June 2017 - May 2019
 
 * Monitored and resolved general computer issues, completed ~10 client-created and ~30 automated tickets per day.
 * Completed other projects as needed, such as evaluating new software for clients.
 
-**Best Buy**&ensp;&ensp;&ensp;&ensp;Framingham, MA
-
+**Best Buy**&ensp;&ensp;&ensp;&ensp;Framingham, MA  
 Sony Experience Expert and Home Theater Sales Consultant  &ensp;&ensp;&ensp;&ensp;June 2015 - January 2018
 
 * Sold home theater solutions, turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
