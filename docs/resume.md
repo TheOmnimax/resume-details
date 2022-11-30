@@ -10,7 +10,7 @@
 ## Links
 
 * GitHub: [github.com/TheOmnimax](http://github.com/TheOmnimax)
-* Detailed resume: [theomnimax.github.io](theomnimax.github.io)
+* Detailed resume: [theomnimax.github.io](https://theomnimax.github.io/)
 * LinkedIn: [linkedin.com/in/maxshaberman](http://linkedin.com/in/maxshaberman)
 
 ## Skills
