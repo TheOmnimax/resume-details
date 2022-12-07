@@ -7,6 +7,8 @@
   max@maxshaberman.com
 </p>
 
+Full-stack engineer with 3 years of professional programming experience and 9 years of customer service experience. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, friendly, always eager to contribute, and always looking for the next challenge.
+
 ## Links
 
 * GitHub: [github.com/TheOmnimax](http://github.com/TheOmnimax)
@@ -15,7 +17,11 @@
 
 ## Skills
 
-Dart, Flutter, Firebase Authentication, Firestore, Python, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore, JavaScript, HTML, CSS, Google Apps Script, Git, JSON, PHP, Kotlin, Java, C++, Google Drive, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
+**Languages**: Dart, Python, JavaScript, HTML, CSS, Google Apps Script, JSON, PHP, Kotlin, Java, C++
+
+**Frameworks and SDKs**: Flutter, Firebase Authentications, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
+
+**Apps and systems**: Git, Google Drive, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
 ## Project experience
 
@@ -48,11 +54,11 @@ Technical Support Associate&ensp;&ensp;&ensp;&ensp;June 2019 - Present
 
 * Developed 17 of the 40 total field plug-ins using frontend web development, and contributed in some way to most of the others, to enhance the capabilities of our software. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
 * Developed and hosted 7 webinars and ~10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Led internal workshops for coworkers, guiding them on how to demonstrate our app to capture new users.
+* Wrote scripts and recorded audio and video for 7 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
 * Wrote 57 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use our platform, and also decreased customer ticket times by providing supporting materials. 
 * Developed 23 Python scripts and packages for data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
 * As part of the QA team, discovered and reported over 80 platform issues, detailing steps to reproduce so the development team can resolve them before production release.
 * Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
-
 
 **LANConnect Systems, Inc**&ensp;&ensp;&ensp;&ensp;Foxborough, MA  
 Technical Support Associate&ensp;&ensp;&ensp;&ensp;June 2017 - May 2019
