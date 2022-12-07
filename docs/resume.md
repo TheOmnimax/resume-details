@@ -1,6 +1,6 @@
 # Resume
 
-<p style="text-align:center">
+<p align="center">
   Max S. Haberman<br>
   1500 Worcester Road, Unit 327, Framingham, MA, 01702<br>
   508-965-4049<br>
