@@ -2,9 +2,9 @@
 These are apps and projects I created to demonstrate my skills as a full-stack developer. All three apps are Flutter apps (front-end using Dart) that communicate with a server (Google App Engine, built using Python).
 
 **Table of contents**
- * [eReader](#ereader)
- * [Boggle](#boggle)
- * [Trivia game](#trivia-game)
+* [eReader](#ereader)
+* [Boggle](#boggle)
+* [Trivia game](#trivia-game)
 
 ## eReader
 
@@ -14,9 +14,9 @@ These are apps and projects I created to demonstrate my skills as a full-stack d
 
 ### Repositories
 
- * [Client app](https://github.com/TheOmnimax/ereader)
- * [Backend server](https://github.com/TheOmnimax/ebook-server)
- * [Ebook uploader client app](https://github.com/TheOmnimax/ebook_uploader)
+* [Client app](https://github.com/TheOmnimax/ereader)
+* [Backend server](https://github.com/TheOmnimax/ebook-server)
+* [Ebook uploader client app](https://github.com/TheOmnimax/ebook_uploader)
 
 ### About
 
@@ -24,12 +24,12 @@ This is an eReader that takes an EPUB file (open-source ebook) and makes it read
 
 This app uses the following:
 
- * General app development using Flutter (Dart)
- * Build a server (Python, hosted in Google Cloud App Engine)
- * Developed REST API server, built using Flask in Python, that allowed client to download books
- * Authentication using Firebase authentication (only logged-in users can download new books from the server)
- * Using libraries (used libraries capable of understanding EPUB files)
- * Created services epub parsing services that were not previously available
+* General app development using Flutter (Dart)
+* Build a server (Python, hosted in Google Cloud App Engine)
+* Developed REST API server, built using Flask in Python, that allowed client to download books
+* Authentication using Firebase authentication (only logged-in users can download new books from the server)
+* Using libraries (used libraries capable of understanding EPUB files)
+* Created services epub parsing services that were not previously available
 
 ## Boggle
 
@@ -43,8 +43,8 @@ This app uses the following:
 
 ### Repositories
 
- * [Client app](https://github.com/TheOmnimax/boggle_flutter)
- * [Backend server](https://github.com/TheOmnimax/boggle-server)
+* [Client app](https://github.com/TheOmnimax/boggle_flutter)
+* [Backend server](https://github.com/TheOmnimax/boggle-server)
 * [Word indexer](https://github.com/TheOmnimax/word-indexer)
 
 ### About
@@ -53,10 +53,10 @@ Game that multiple players can join and play remotely over the internet. When th
 
 This app uses the following:
 
- * General app development using Flutter (Dart)
- * Build a server (Python, hosted in Google Cloud App Engine)
- * Real-time communication between clients over the internet using REST API polling built using Flask in Python
- * Algorithms (finding every possible word for each Boggle board using a depth-first search)
+* General app development using Flutter (Dart)
+* Build a server (Python, hosted in Google Cloud App Engine)
+* Real-time communication between clients over the internet using REST API polling built using Flask in Python
+* Algorithms (finding every possible word for each Boggle board using a depth-first search)
 
 ## Trivia game
 
@@ -66,13 +66,13 @@ This app uses the following:
 
 ### Repositories
 
- * [Client app](https://github.com/TheOmnimax/max-trivia)
- * [Backend server](https://github.com/TheOmnimax/trivia-server)
+* [Client app](https://github.com/TheOmnimax/max-trivia)
+* [Backend server](https://github.com/TheOmnimax/trivia-server)
 
 ### About
 
 Trivia game where players compete to answer trivia questions. The first player to answer gets the point. Time is theoretically unlimited, with the round ending either when a player selects the correct answer, or when all players select a wrong answer.
 
- * General app development using Flutter (Dart)
- * Build a server (Python, hosted in Google Cloud App Engine)
- * Real-time communication between clients over the internet using WebSockets (used Socket.io library)
+* General app development using Flutter (Dart)
+* Build a server (Python, hosted in Google Cloud App Engine)
+* Real-time communication between clients over the internet using WebSockets (used Socket.io library)

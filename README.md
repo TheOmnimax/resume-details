@@ -4,9 +4,9 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 
 **Table of contents**
 
- * [Short resume](/docs/resume.md) ([single-page PDF](/docs/max_s_habermans_resume.pdf))
- * [Work experience](/docs/work-experience.md)
- * [Projects](/docs/projects.md) (includes links to all project repositories)
+* [Short resume](/docs/resume.md) ([single-page PDF](/docs/max_s_habermans_resume.pdf))
+* [Work experience](/docs/work-experience.md)
+* [Projects](/docs/projects.md) (includes links to all project repositories)
 
 ## Repositories
 
@@ -16,9 +16,9 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 |:--:|:--:|:--:|:--:|
 | Downloading ebook | Turning page | Select style | Edit style |
 
- * [Client app](https://github.com/TheOmnimax/ereader)
- * [Backend server](https://github.com/TheOmnimax/ebook-server)
- * [Ebook uploader client app](https://github.com/TheOmnimax/ebook_uploader)
+* [Client app](https://github.com/TheOmnimax/ereader)
+* [Backend server](https://github.com/TheOmnimax/ebook-server)
+* [Ebook uploader client app](https://github.com/TheOmnimax/ebook_uploader)
 
 ### Boggle
 
@@ -30,9 +30,9 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 |:--:|:--:|
 | Playing | Results |
 
- * [Client app](https://github.com/TheOmnimax/boggle_flutter)
- * [Backend server](https://github.com/TheOmnimax/boggle-server)
- * [Word indexer](https://github.com/TheOmnimax/word-indexer)
+* [Client app](https://github.com/TheOmnimax/boggle_flutter)
+* [Backend server](https://github.com/TheOmnimax/boggle-server)
+* [Word indexer](https://github.com/TheOmnimax/word-indexer)
 
 ### Trivia game
 
@@ -40,5 +40,5 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 |:--:|:--:|:--:|:--:|
 | Results | Results | Results | Results |
 
- * [Client app](https://github.com/TheOmnimax/max-trivia)
- * [Backend server](https://github.com/TheOmnimax/trivia-server)
+* [Client app](https://github.com/TheOmnimax/max-trivia)
+* [Backend server](https://github.com/TheOmnimax/trivia-server)
