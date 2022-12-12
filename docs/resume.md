@@ -11,9 +11,9 @@ Full-stack engineer with 3 years of professional programming experience and 9 ye
 
 ## Links
 
-* GitHub: [github.com/TheOmnimax](http://github.com/TheOmnimax)
+* GitHub: [github.com/TheOmnimax](https://github.com/TheOmnimax)
 * Detailed resume: [theomnimax.github.io](https://theomnimax.github.io/)
-* LinkedIn: [linkedin.com/in/maxshaberman](http://linkedin.com/in/maxshaberman)
+* LinkedIn: [linkedin.com/in/maxshaberman](https://linkedin.com/in/maxshaberman)
 
 ## Skills
 
