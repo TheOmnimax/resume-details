@@ -51,10 +51,10 @@ Full-stack engineer with 3 years of professional programming experience and 9 ye
 
 ## WORK EXPERIENCE
 
-### Dobility, Inc<font size=2>, Cambridge, MA</font>
+### Dobility, Inc
 
-**Senior Technical Associate**
-
+**Senior Technical Associate**  
+Cambridge, MA  
 June 2019 - Present
 
 Developed tools and resources to further enhance the capabilities of the software and our users.
@@ -67,10 +67,10 @@ Developed tools and resources to further enhance the capabilities of the softwar
 Discovered and reported over 80 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
 * Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
-### LANConnect Systems, Inc, Foxborough, MA
+### LANConnect Systems, Inc
 
-**Technician I**
-
+**Technician I**  
+Foxborough, MA  
 June 2017 - May 2019
 
 Monitored and resolved general computer issues.
@@ -78,10 +78,10 @@ Monitored and resolved general computer issues.
 * Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
 * Completed other projects as needed, such as evaluating new software for clients.
 
-### Best Buy, Framingham, MA
+### Best Buy
 
-**Sony Experience Expert and Home Theater Sales Consultant**
-
+**Sony Experience Expert and Home Theater Sales Consultant**  
+Framingham, MA  
 June 2015 - January 2018
 
 Sold home theater solutions.
