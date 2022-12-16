@@ -1,21 +1,23 @@
 # Resume
 
 <p align="center">
-  Max S. Haberman<br>
-  1500 Worcester Road, Unit 327, Framingham, MA, 01702<br>
-  508-965-4049<br>
-  max@maxshaberman.com
+  <span style="font-weight:bold;font-size:20px">Max S. Haberman</span><br>
+  Framingham, MA, 01702 | 508-965-4049 | max@maxshaberman.com
+</p>
+
+<p align="center" style="font-weight:bold">
+  SOFTWARE ENGINEER | FULL STACK ENGINEER
 </p>
 
 Full-stack engineer with 3 years of professional programming experience and 9 years of customer service experience. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, friendly, always eager to contribute, and always looking for the next challenge.
 
-## Links
+## LINKS
 
 * GitHub: [github.com/TheOmnimax](https://github.com/TheOmnimax)
 * Detailed resume: [theomnimax.github.io](https://theomnimax.github.io/)
 * LinkedIn: [linkedin.com/in/maxshaberman](https://linkedin.com/in/maxshaberman)
 
-## Skills
+## SKILLS
 
 **Languages**: Dart, Python, JavaScript, HTML, CSS, Google Apps Script, JSON, PHP, Kotlin, Java, C++
 
@@ -23,7 +25,7 @@ Full-stack engineer with 3 years of professional programming experience and 9 ye
 
 **Apps and systems**: Git, Google Drive, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
-## Project experience
+## PROJECT EXPERIENCE
 
 ### eReader
 
@@ -47,27 +49,42 @@ Full-stack engineer with 3 years of professional programming experience and 9 ye
 * Google Cloud Datastore to store real-time game data. Designed data schemas to manage multiple relational entities that were optimized for high frequency writes.
 * Multi-client real-time synchronization with the server managing shared state, maintaining client-server communication using WebSockets, allowing real-time communication.
 
-## Work Experience
+## WORK EXPERIENCE
 
-**Dobility, Inc**&ensp;&ensp;&ensp;&ensp;Cambridge, MA  
-Senior Technical Associate&ensp;&ensp;&ensp;&ensp;June 2019 - Present
+<div style="float:left"><span style="font-weight:bold">Dobility, Inc</span>, Cambridge, MA</div>
+<div style="float:right">June 2019 - Present</div>
+<div style="clear: both;"></div>
 
-* Developed 17 of the 40 total field plug-ins using frontend web development, and contributed in some way to most of the others, to enhance the capabilities of our software. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
-* Developed and hosted 7 webinars and ~10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Led internal workshops for coworkers, guiding them on how to demonstrate our app to capture new users.
+**Senior Technical Associate**
+
+Developed tools and resources to further enhance the capabilities of the software and our users.
+
+* Developed 17 of the 40 total field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
+* Developed and hosted 7 webinars and 10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Coordinated and executed internal workshops for coworkers, providing guidance on how to demonstrate the app to capture new users.
 * Wrote scripts and recorded audio and video for 7 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
-* Wrote 57 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use our platform, and also decreased customer ticket times by providing supporting materials. 
+* Wrote 57 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use the platform, and also decreased customer ticket times by providing supporting materials. 
 * Developed 23 Python scripts and packages for data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
-* As part of the QA team, discovered and reported over 80 platform issues, detailing steps to reproduce so the development team can resolve them before production release.
+Discovered and reported over 80 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
 * Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
-**LANConnect Systems, Inc**&ensp;&ensp;&ensp;&ensp;Foxborough, MA  
-Technician I&ensp;&ensp;&ensp;&ensp;June 2017 - May 2019
+<div style="float:left"><span style="font-weight:bold">LANConnect Systems, Inc</span>, Foxborough, MA</div>
+<div style="float:right">June 2017 - May 2019</div>
+<div style="clear: both;"></div>
 
-* Monitored and resolved general computer issues, completed ~10 client-created and ~30 automated tickets per day.
+**Technician I**
+
+Monitored and resolved general computer issues.
+
+* Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
 * Completed other projects as needed, such as evaluating new software for clients.
 
-**Best Buy**&ensp;&ensp;&ensp;&ensp;Framingham, MA  
-Sony Experience Expert and Home Theater Sales Consultant  &ensp;&ensp;&ensp;&ensp;June 2015 - January 2018
+<div style="float:left"><span style="font-weight:bold">Best Buy</span>, Framingham, MA</div>
+<div style="float:right">June 2015 - January 2018</div>
+<div style="clear: both;"></div>
 
-* Sold home theater solutions, turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
-* Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales
+**Sony Experience Expert and Home Theater Sales Consultant**
+
+Sold home theater solutions.
+
+* Generated increased sales by potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
+* Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales.
