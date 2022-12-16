@@ -1,7 +1,7 @@
 # Resume
 
 <p align="center">
-  <font size="5"><strong>Max S. Haberman</strong></font>
+  <font size="5"><strong>Max S. Haberman</strong></font><br>
   Framingham, MA, 01702 | 508-965-4049 | max@maxshaberman.com
 </p>
 
