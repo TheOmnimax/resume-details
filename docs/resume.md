@@ -1,12 +1,12 @@
 # Resume
 
 <p align="center">
-  <span style="font-weight:bold;font-size:20px">Max S. Haberman</span><br>
+  <font size="5"><strong>Max S. Haberman</strong></font>
   Framingham, MA, 01702 | 508-965-4049 | max@maxshaberman.com
 </p>
 
-<p align="center" style="font-weight:bold">
-  SOFTWARE ENGINEER | FULL STACK ENGINEER
+<p align="center">
+  <strong>SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
 </p>
 
 Full-stack engineer with 3 years of professional programming experience and 9 years of customer service experience. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, friendly, always eager to contribute, and always looking for the next challenge.
@@ -51,11 +51,11 @@ Full-stack engineer with 3 years of professional programming experience and 9 ye
 
 ## WORK EXPERIENCE
 
-<div style="float:left"><span style="font-weight:bold">Dobility, Inc</span>, Cambridge, MA</div>
-<div style="float:right">June 2019 - Present</div>
-<div style="clear: both;"></div>
+### Dobility, Inc<font size=2>, Cambridge, MA</font>
 
 **Senior Technical Associate**
+
+June 2019 - Present
 
 Developed tools and resources to further enhance the capabilities of the software and our users.
 
@@ -67,22 +67,22 @@ Developed tools and resources to further enhance the capabilities of the softwar
 Discovered and reported over 80 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
 * Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
-<div style="float:left"><span style="font-weight:bold">LANConnect Systems, Inc</span>, Foxborough, MA</div>
-<div style="float:right">June 2017 - May 2019</div>
-<div style="clear: both;"></div>
+### LANConnect Systems, Inc, Foxborough, MA
 
 **Technician I**
+
+June 2017 - May 2019
 
 Monitored and resolved general computer issues.
 
 * Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
 * Completed other projects as needed, such as evaluating new software for clients.
 
-<div style="float:left"><span style="font-weight:bold">Best Buy</span>, Framingham, MA</div>
-<div style="float:right">June 2015 - January 2018</div>
-<div style="clear: both;"></div>
+### Best Buy, Framingham, MA
 
 **Sony Experience Expert and Home Theater Sales Consultant**
+
+June 2015 - January 2018
 
 Sold home theater solutions.
 
