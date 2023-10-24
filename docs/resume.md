@@ -8,19 +8,19 @@
   <strong>SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
 </p>
 
-Full-stack engineer with 3 years of professional programming experience and 9 years of customer service experience. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, friendly, always eager to contribute, and always looking for the next challenge.
+Full-stack engineer with 4 years of professional programming experience and 9 years of customer service experience. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, friendly, always eager to contribute, and always looking for the next challenge.
 
 ## LINKS
 
-* GitHub: [github.com/TheOmnimax](https://github.com/TheOmnimax)
 * Detailed resume: [theomnimax.github.io](https://theomnimax.github.io/)
 * LinkedIn: [linkedin.com/in/maxshaberman](https://linkedin.com/in/maxshaberman)
+* GitHub: [github.com/TheOmnimax](https://github.com/TheOmnimax)
 
 ## SKILLS
 
 **Languages**: Dart, Python, JavaScript, HTML, CSS, Google Apps Script, JSON, PHP, Kotlin, Java, C++
 
-**Frameworks and SDKs**: Flutter, Firebase Authentications, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
+**Frameworks and SDKs**: Flutter, Firebase Authentication, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
 
 **Apps and systems**: Git, Google Drive, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
