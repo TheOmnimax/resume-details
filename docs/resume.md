@@ -87,3 +87,16 @@ Sold home theater solutions.
 
 * Generated increased sales by potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
 * Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales.
+
+## VOLUNTEER
+
+### Chapel Hill East Condominium Association
+
+**Member Board of Trustees, Clerk**  
+Framingham, MA  
+December 2023 - Present
+
+*	Meet with other Board members once per month to address building issues.
+*	Collaborate with vendors and management to discuss work and projects that need to be completed and manage the budget for this work.
+*	Meet with building residents to discuss needs and review them with the Board for decision making.
+*	Serve as minute taker to ensure all action items and decisions are captured.
