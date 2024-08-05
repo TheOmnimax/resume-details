@@ -18,7 +18,7 @@ Full-stack engineer with 4 years of professional programming experience and 9 ye
 
 ## SKILLS
 
-**Languages**: Dart, Python, JavaScript, HTML, CSS, Google Apps Script, JSON, PHP, Kotlin, Java, C++
+**Languages**: Dart, Python, JavaScript, HTML, CSS, Linux line-command, Google Apps Script, JSON, PHP, Kotlin, Java, C++
 
 **Frameworks and SDKs**: Flutter, Firebase Authentication, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
 
@@ -47,6 +47,15 @@ Full-stack engineer with 4 years of professional programming experience and 9 ye
 * Developed full-stack app, using Flutter (Dart with BLoC) for frontend, and FastAPI server with Socket.io hosted on Google App Engine for backend that allowed users to play a real-time trivia game online.
 * Google Cloud Datastore to store real-time game data. Designed data schemas to manage multiple relational entities that were optimized for high frequency writes.
 * Multi-client real-time synchronization with the server managing shared state, maintaining client-server communication using WebSockets, allowing real-time communication.
+
+## CERTIFICATIONS
+
+**CompTIA Security+**  
+CompTIA, July 2024  
+Verification code: K1SBNHMR3BB41LGT (verify at https://verify.comptia.org/)
+
+**Google Cybersecurity Certificate**  
+Coursera, April 2024
 
 ## WORK EXPERIENCE
 
