@@ -8,7 +8,7 @@
   <strong>SECURITY ANALYST | SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
 </p>
 
-Security analyst and full-stack engineer with 5 years of professional programming experience, 7 years of computer support experience, and 10 years of customer service experience. Passionate for cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
+Security analyst and full-stack engineer with 5 years of professional programming experience, 7 years of computer support experience, and 10 years of customer service experience. Passionate about cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
 
 ## LINKS
 
