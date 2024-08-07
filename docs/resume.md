@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <strong>SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
+  <strong>SECURITY ANALYST | SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
 </p>
 
-Full-stack engineer with 4 years of professional programming experience and 9 years of customer service experience. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, friendly, always eager to contribute, and always looking for the next challenge.
+Security analyst and full-stack engineer with 5 years of professional programming experience, 7 years of computer support experience, and 10 years of customer service experience. Passionate for cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
 
 ## LINKS
 
@@ -18,11 +18,20 @@ Full-stack engineer with 4 years of professional programming experience and 9 ye
 
 ## SKILLS
 
-**Languages**: Dart, Python, JavaScript, HTML, CSS, Linux line-command, Google Apps Script, JSON, PHP, Kotlin, Java, C++
+**Languages**: Dart, Python, JavaScript, HTML, CSS, Linux command line, SQL, Google Apps Script, JSON, PHP, Kotlin, Java, C++
 
 **Frameworks and SDKs**: Flutter, Firebase Authentication, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
 
-**Apps and systems**: Git, Google Drive, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
+**Apps and systems**: Git, Google Drive, network security, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
+
+## CERTIFICATIONS
+
+**CompTIA Security+**  
+CompTIA, July 2024  
+Verification code: `K1SBNHMR3BB41LGT` (verify at https://verify.comptia.org/)
+
+**Google Cybersecurity Certificate**  
+Coursera, April 2024
 
 ## PROJECT EXPERIENCE
 
