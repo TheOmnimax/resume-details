@@ -76,12 +76,12 @@ June 2019 - Present
 
 Developed tools and resources to further enhance the capabilities of the software and our users.
 
-* Developed 17 of the 40 total field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
+* Developed 18 of the 42 total public field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software, as well as field plug-ins that integrate symmetric encryption. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
+* Developed 25 Python scripts and packages for data encryption/decryption, data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
 * Developed and hosted 7 webinars and 10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Coordinated and executed internal workshops for coworkers, providing guidance on how to demonstrate the app to capture new users.
 * Wrote scripts and recorded audio and video for 7 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
 * Wrote 57 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use the platform, and also decreased customer ticket times by providing supporting materials. 
-* Developed 23 Python scripts and packages for data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
-Discovered and reported over 80 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
+* Discovered and reported over 80 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
 * Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
 ### LANConnect Systems, Inc
