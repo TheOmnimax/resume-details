@@ -24,6 +24,8 @@ Security analyst and full-stack engineer with 5 years of professional programmin
 
 **Apps and systems**: Git, Google Drive, network security, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
+**Other**: Technical writing, article writing, documentation, educational training, report editing, efficiency, analytical skills
+
 ## CERTIFICATIONS
 
 **CompTIA Security+**  
