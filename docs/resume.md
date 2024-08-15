@@ -28,7 +28,7 @@ Security analyst and full-stack engineer with 5 years of professional programmin
 
 ## CERTIFICATIONS
 
-**CompTIA Security+**  
+**[CompTIA Security+](/docs/CompTIA%20Security+%20ce%20certificate.pdf)**  
 CompTIA, July 2024  
 Verification code: `K1SBNHMR3BB41LGT` (verify at https://verify.comptia.org/)
 
