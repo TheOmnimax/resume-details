@@ -14,7 +14,7 @@
   * Developed field plug-ins that allow users to encrypt/decrypt data, use timers, use counters, filter data, track which links were clicked, find how long a YouTube video was watched for, control phone call recordings, and more.
     * Here is the list of the favorite field plug-ins I developed (the encryption field plug-ins are not yet publicly available): [Timed categories](https://github.com/surveycto/timed-categories), [Timed field list](https://github.com/surveycto/timed-field-list), [YouTube detector](https://github.com/surveycto/youtube-detector), [Ranking choices](https://github.com/surveycto/ranking-choices), [Twilio control](https://github.com/surveycto/twilio-control), [Counter with stopwatch](https://github.com/surveycto/counter-with-stopwatch), [Counter with timer](https://github.com/surveycto/counter-with-timer), [Detect clicked link](https://github.com/surveycto/detect-clicked-link), [Timed choice](https://github.com/surveycto/timed-choice), [Text box](https://github.com/surveycto/text-box)
     * Other field plug-ins I developed: [Specify other](https://github.com/surveycto/specify-other), [Pre-load filter](https://github.com/surveycto/preload-filter), [Extra buttons](https://github.com/surveycto/extra-buttons), [Select_one-select_multiple](https://github.com/surveycto/select_one-select_multiple) (combines the capabilities of [this](https://github.com/surveycto/baseline-select_one) and [this](https://github.com/surveycto/baseline-select_multiple) field plug-in), [text-integer-decimal](https://github.com/surveycto/text-integer-decimal) (combines [this](https://github.com/surveycto/baseline-text), [this](https://github.com/surveycto/baseline-integer), and [this](https://github.com/surveycto/baseline-decimal) field plug-in), [Button to advance](https://github.com/surveycto/button-to-advance), [Timed advanced](https://github.com/surveycto/timed-advance) (mostly deprecated, replaced by [timed choice](https://github.com/surveycto/timed-choice))
-* Wrote scripts and recorded audio and video for 7 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
+* Wrote scripts and recorded audio and video for 18 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
   * Videos can be found [here](https://support.surveycto.com/hc/en-us/sections/11936432191763-How-to-videos). All of the scripts were written by me, and all of the  videos and audio was recorded by me. A third-party editor put the audio and video together, and another team member wrote the written steps below the videos.
 * Developed and hosted webinars and training sessions
   * Developed and hosted 7 webinars
@@ -26,7 +26,7 @@
   * Performed dozens of other training sessions with fellow team members
   * Wrote updated 38-page training materials
 * Provided resources to ensure users can learn on their own by writing support articles.
-  * Wrote and published 57 support articles. Most of them can be found in a [search](https://www.google.com/search?q=site:support.surveycto.com+%22Max+S.+Haberman%22), but here are some of my favorites:
+  * Wrote and published 93 support articles. Most of them can be found in a [search](https://www.google.com/search?q=site:support.surveycto.com+%22Max+S.+Haberman%22), but here are some of my favorites:
     * [Quick start guide](https://support.surveycto.com/hc/en-us/articles/360051557414-Quick-start-guide-SurveyCTO-basics-in-a-few-easy-steps) (slideshow guides on basic usage of SurveyCTO)
     * [Offline GPS and maps using MBTiles](https://support.surveycto.com/hc/en-us/articles/360037854914-Offline-GPS-and-maps-using-MBTiles) (this involved using a feature we inherited from another application, ODK, so almost no one knew how to use it before I wrote this)
     * [Common multilingual form problems, and how to avoid them](https://support.surveycto.com/hc/en-us/articles/360041729414-Common-multilingual-form-problems-and-how-to-avoid-them) (these includes issues that frequently cause errors in forms, I wrote this article so we wouldn't have to explain the issue every time)
@@ -41,12 +41,12 @@
   * Ensured user retention by having clear guides on how to use specific features.
   * Shortened support times by having prepared articles that explain how to resolve issues.
 * Developed Python scripts for data analysis
-  * Developed 23 Python scripts and packages for data analysis.
+  * Developed 25 Python scripts and packages for data analysis.
   * Used REST APIs to retrieve data, such as from [Zendesk](https://developer.zendesk.com/api-reference/).
   * Compiled and generated new CSV data files for data analysis.
   * Examples include churn analysis (finding how often organizations would sign up for our services before ending their subscription), average number of responses per support ticket (so we know how many tries it typically takes to fix an issue), how often we link to certain pages in support articles (so we know which topics require more explanation), and more.
 * Look for possible issues in our platform, and report them as needed.
-  * Found and reported 79 issues to Jira.
+  * Found and reported 240 issues to Jira.
   * Found and recorded simplest steps to reproduce, so it is easy to test and check if it is resolved.
   * Ensured issues could be fixed before new releases are made public, making the platform as clean as possible.
 * Answered questions and completed workflows for team members.
