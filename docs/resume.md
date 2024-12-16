@@ -74,7 +74,7 @@ Coursera, April 2024
 
 **Senior Technical Associate**  
 Cambridge, MA  
-June 2019 - Present
+June 2019 - December 2024
 
 Developed tools and resources to further enhance the capabilities of the software and our users.
 
