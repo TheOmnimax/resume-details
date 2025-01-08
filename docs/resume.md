@@ -113,11 +113,14 @@ Sold home theater solutions.
 
 ### Chapel Hill East Condominium Association
 
-**Member Board of Trustees, Clerk**  
+**Board Trustee, Chair, Clerk**  
 Framingham, MA  
 December 2023 - Present
 
+Serve on Board of Trustees for a condo building of about 500 residents.
+*	Set agenda for Board meetings.
+*	Meet with property manager to discuss building management and maintenance.
 *	Meet with other Board members once per month to address building issues.
-*	Collaborate with vendors and management to discuss work and projects that need to be completed and manage the budget for this work.
+*	Collaborate with vendors and management to discuss projects and manage budgets.
 *	Meet with building residents to discuss needs and review them with the Board for decision making.
-*	Serve as minute taker to ensure all action items and decisions are captured.
+*	Record meeting minutes to ensure all action items and decisions are captured.
