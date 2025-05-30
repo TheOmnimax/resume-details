@@ -7,7 +7,6 @@ While my [resume](/docs/resume.md) contains a summary of my accomplishments, thi
 * Resume
 
   * [Main resume](/docs/resume.md) ([PDF version](/docs/max_s_haberman_resume.pdf), [DOCX version](docs/max_s_haberman_resume.docx))
-  * Single-page resume ([PDF version](/docs/max_s_haberman_resume_single_page.pdf), [DOCX version](/docs/max_s_haberman_resume_single_page.docx))
 * [Work experience](/docs/work-experience.md)
 * [Projects](/docs/projects.md) (includes links to all project repositories)
 

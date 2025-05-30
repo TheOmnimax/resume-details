@@ -8,7 +8,7 @@
   <strong>SECURITY ANALYST | SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
 </p>
 
-Full-stack engineer and software analyst with 5 years of professional programming experience, 7 years of computer support experience, and 10 years of customer service experience. Passionate about cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
+Security analyst and full-stack engineer with 5 years of professional programming experience, 7 years of computer support experience, and 10 years of customer service experience. Passionate about cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Resolute and determined, yet flexible and a strong team-player. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
 
 ## LINKS
 
@@ -22,7 +22,7 @@ Full-stack engineer and software analyst with 5 years of professional programmin
 
 **Frameworks and SDKs**: Flutter, Firebase Authentication, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
 
-**Apps and systems**: Git, Google Drive, network security, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
+**Apps and systems**: Git, Google Drive, Splunk (SIEM tools), network security, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
 **Other**: Technical writing, article writing, documentation, educational training, report writing, report editing, efficiency, analytical skills
 
@@ -36,13 +36,13 @@ June 2019 - December 2024
 
 Developed tools and resources to further enhance the capabilities of the software and our users.
 
-*	Developed 18 of the 42 total public field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software, including tools that integrate symmetric encryption. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
-*	Developed 25 Python scripts and packages for data encryption/decryption, data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
-*	Developed and hosted 7 webinars and 10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Coordinated and executed internal workshops for coworkers, providing guidance on how to demonstrate the app to capture new users.
-*	Wrote scripts and recorded audio and video for 18 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
-*	Wrote 93 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use the platform, and also decreased customer ticket times by providing supporting materials. 
-*	Discovered and reported over 240 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
-*	Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
+●	Developed 18 of the 42 total public field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software, including tools that integrate symmetric encryption. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
+●	Developed 25 Python scripts and packages for data encryption/decryption, data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
+●	Developed and hosted 7 webinars and 10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Coordinated and executed internal workshops for coworkers, demonstrating the app to capture new users.
+●	Wrote scripts and recorded audio and video for 18 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
+●	Wrote 93 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use the platform, and also decreased customer ticket times by providing supporting materials. 
+●	Discovered and reported over 240 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
+●	Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
 ### LANConnect Systems, Inc
 
@@ -52,8 +52,9 @@ June 2017 - May 2019
 
 Monitored and resolved general computer issues.
 
-* Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
-* Completed other projects as needed, such as evaluating new software for clients.
+●	Used leading cybersecurity tools and applications to manage, monitor, and implement IT and network infrastructure for medical offices and other businesses.
+●	Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
+●	Completed other projects as needed, such as evaluating new software for clients.
 
 ### Best Buy
 
@@ -63,7 +64,7 @@ June 2015 - January 2018
 
 Sold home theater solutions.
 
-* Generated increased sales by potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
+* ●	Increased sales by turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
 * Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales.
 
 ## CERTIFICATIONS
@@ -90,6 +91,23 @@ Serve on Board of Trustees for a condo building of about 500 residents.
 *	Collaborate with vendors and management to discuss projects and manage budgets.
 *	Meet with building residents to discuss needs and review them with the Board for decision making.
 *	Record meeting minutes to ensure all action items and decisions are captured.
+
+
+### Project Just Because
+
+**Volunteer**  
+Hopkinton, MA  
+March 2025 - Present
+
+* Assisted at food bank: tracked inventory of food and supplies; restocked and packaged goods.
+
+### Allston Brighton Community Development Corporation
+
+**Volunteer**  
+Boston, MA  
+March 2025 - May 2025
+
+* Worked with children, overseeing after-school activities and enrichment.
 
 ## PROJECT EXPERIENCE
 
