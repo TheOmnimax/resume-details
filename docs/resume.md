@@ -36,13 +36,13 @@ June 2019 - December 2024
 
 Developed tools and resources to further enhance the capabilities of the software and our users.
 
-●	Developed 18 of the 42 total public field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software, including tools that integrate symmetric encryption. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
-●	Developed 25 Python scripts and packages for data encryption/decryption, data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
-●	Developed and hosted 7 webinars and 10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Coordinated and executed internal workshops for coworkers, demonstrating the app to capture new users.
-●	Wrote scripts and recorded audio and video for 18 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
-●	Wrote 93 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use the platform, and also decreased customer ticket times by providing supporting materials. 
-●	Discovered and reported over 240 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
-●	Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
+* Developed 18 of the 42 total public field plug-ins using frontend web development, and contributed to others, to enhance the capabilities of the software, including tools that integrate symmetric encryption. Created custom solutions for the niche needs of NGOs, furthering the company's social mission, and adding new user segments.
+* Developed 25 Python scripts and packages for data encryption/decryption, data retrieval, transformation, and analysis using REST APIs and other tools. Used for churn analysis, support time responses, and more, in order to show areas of improvement.
+* Developed and hosted 7 webinars and 10 training sessions. Designed curriculum to introduce and educate users on key product features, increasing user acquisition and user retention. Coordinated and executed internal workshops for coworkers, demonstrating the app to capture new users.
+* Wrote scripts and recorded audio and video for 18 how-to videos, allowing new users to easily emulate processes for both basic and advanced functionality.
+* Wrote 93 user guides, and created over 160 tutorials with example code. These facilitated user education on how to use the platform, and also decreased customer ticket times by providing supporting materials. 
+* Discovered and reported over 240 platform issues as part of the QA team, detailing steps to reproduce so the development team can resolve all issues before production release.
+* Responded to user support requests submitted by users, completing about 8 tickets per day. Went above and beyond for users by responding within 1 hour, much faster than the 2-hour standard. Reviewed all tickets, and was point-of-contact for escalation.
 
 ### LANConnect Systems, Inc
 
@@ -52,9 +52,9 @@ June 2017 - May 2019
 
 Monitored and resolved general computer issues.
 
-●	Used leading cybersecurity tools and applications to manage, monitor, and implement IT and network infrastructure for medical offices and other businesses.
-●	Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
-●	Completed other projects as needed, such as evaluating new software for clients.
+* Used leading cybersecurity tools and applications to manage, monitor, and implement IT and network infrastructure for medical offices and other businesses.
+* Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
+* Completed other projects as needed, such as evaluating new software for clients.
 
 ### Best Buy
 
@@ -64,7 +64,7 @@ June 2015 - January 2018
 
 Sold home theater solutions.
 
-* ●	Increased sales by turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
+* * Increased sales by turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
 * Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales.
 
 ## CERTIFICATIONS
