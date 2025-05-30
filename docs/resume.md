@@ -64,7 +64,7 @@ June 2015 - January 2018
 
 Sold home theater solutions.
 
-* * Increased sales by turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
+* Increased sales by turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
 * Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales.
 
 ## CERTIFICATIONS
