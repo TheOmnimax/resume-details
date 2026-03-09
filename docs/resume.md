@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <strong>SECURITY ANALYST | SOFTWARE ENGINEER | FULL STACK ENGINEER</strong>
+  <strong>SECURITY ANALYST | SUPPORT ENGINEER | FULL STACK ENGINEER</strong>
 </p>
 
-Security analyst and full-stack engineer with 5 years of professional programming experience, 7 years of computer support experience, and 10 years of customer service experience. Passionate about cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Resolute and determined, yet flexible and a strong team-player. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
+Security analyst, support engineer, and full-stack engineer with 6 years of professional programming experience, 8 years of computer support experience, and 11 years of customer service experience. Passionate about cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Resolute and determined, yet flexible and a strong team-player. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
 
 ## LINKS
 
@@ -22,11 +22,27 @@ Security analyst and full-stack engineer with 5 years of professional programmin
 
 **Frameworks and SDKs**: Flutter, Firebase Authentication, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
 
-**Apps and systems**: Git, Google Drive, Splunk (SIEM tools), network security, ConnectWise Automate and Manage, Microsoft Active Directory, MS Word, Excel, PowerPoint
+**Apps and systems**: Git, Google Drive, network security, Splunk (SIEM tools), Zendesk, Jira, Wordpress, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
-**Other**: Technical writing, article writing, documentation, educational training, report writing, report editing, efficiency, analytical skills
+**Other**: Technical writing, article writing, documentation, educational training, report writing, report editing, Salesforce, efficiency, analytical skills
 
 ## WORK EXPERIENCE
+
+### LinkSquares, Inc
+
+**Technical Support Associate**
+
+Boston, MA
+August 2025 - Present
+
+Analyze and test technical issues for AI-based legal software.
+*	Review log and system data to troubleshoot and report issues.
+*	Establish integrations with third-party software, including Salesforce and SSO services.
+*	Test for system bugs and work with engineering team on resolutions.
+*	Assist customers with technical questions on using the system.
+*	Update documentation with AI-searchable content and latest information.
+*	Write SQL database queries and Python scripts for data collection and analysis.
+
 
 ### Dobility, Inc
 
@@ -56,17 +72,6 @@ Monitored and resolved general computer issues.
 * Completed 10 client-created and 30 automated tickets per day, ensuring high rates of client satisfaction.
 * Completed other projects as needed, such as evaluating new software for clients.
 
-### Best Buy
-
-**Sony Experience Expert and Home Theater Sales Consultant**  
-Framingham, MA  
-June 2015 - January 2018
-
-Sold home theater solutions.
-
-* Increased sales by turning potential $500 sales into $2,000 sales, selling over $1,000,000 of product and services in the first year.
-* Earned "Achiever" Award for 2016, coming in second out of 300 in territory sales.
-
 ## CERTIFICATIONS
 
 **[CompTIA Security+](https://github.com/TheOmnimax/resume-details/blob/main/docs/max_s_haberman_comptia_security_plus_certificate.pdf)**  
@@ -82,7 +87,7 @@ Coursera, April 2024
 
 **Board Trustee, Chair, Clerk**  
 Framingham, MA  
-December 2023 - Present
+December 2023 - December 2025
 
 Serve on Board of Trustees for a condo building of about 500 residents.
 *	Set agenda for Board meetings.
@@ -92,22 +97,13 @@ Serve on Board of Trustees for a condo building of about 500 residents.
 *	Meet with building residents to discuss needs and review them with the Board for decision making.
 *	Record meeting minutes to ensure all action items and decisions are captured.
 
-
 ### Project Just Because
 
 **Volunteer**  
 Hopkinton, MA  
-March 2025 - Present
-
-* Assisted at food bank: tracked inventory of food and supplies; restocked and packaged goods.
-
-### Allston Brighton Community Development Corporation
-
-**Volunteer**  
-Boston, MA  
 March 2025 - May 2025
 
-* Worked with children, overseeing after-school activities and enrichment.
+* Assisted at food bank: tracked inventory of food and supplies; restocked and packaged goods.
 
 ## PROJECT EXPERIENCE
 
