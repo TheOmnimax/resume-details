@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <strong>SECURITY ANALYST | SUPPORT ENGINEER | FULL STACK ENGINEER</strong>
+  <strong>SUPPORT ENGINEER | SECURITY ANALYST | FULL STACK ENGINEER</strong>
 </p>
 
-Security analyst, support engineer, and full-stack engineer with 6 years of professional programming experience, 8 years of computer support experience, and 11 years of customer service experience. Passionate about cybersecurity with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, and accomplished in both front-end and back-end development, including cloud development. Resolute and determined, yet flexible and a strong team-player. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
+Support engineer and security analyst with 8 years of computer support experience, 6 years of professional programming experience, and 11 years of customer service experience. Passionate about helping others and supporting technology with a keen eye for detail and great skill in describing processes. Skilled in several programming and scripting languages, accomplished in both front-end and back-end development, including cloud development. Resolute and determined, yet flexible and a strong team-player. Quick, efficient, self-starter, independent learner, friendly, always eager to contribute, and always looking for the next challenge.
 
 ## LINKS
 
@@ -22,7 +22,7 @@ Security analyst, support engineer, and full-stack engineer with 6 years of prof
 
 **Frameworks and SDKs**: Flutter, Firebase Authentication, Firestore, FastAPI, Flask, WebSockets, Socket.io, Google Cloud Platform, Google App Engine, Google Datastore
 
-**Apps and systems**: Git, Google Drive, network security, Splunk (SIEM tools), Zendesk, Jira, Wordpress, Microsoft Active Directory, MS Word, Excel, PowerPoint
+**Apps and systems**: Git, Google Drive, Auth0, network security, Splunk (SIEM tools), Zendesk, Jira, Wordpress, Microsoft Active Directory, MS Word, Excel, PowerPoint
 
 **Other**: Technical writing, article writing, documentation, educational training, report writing, report editing, Salesforce, efficiency, analytical skills
 
@@ -36,13 +36,12 @@ Boston, MA
 August 2025 - Present
 
 Analyze and test technical issues for AI-based legal software.
-*	Review log and system data to troubleshoot and report issues.
-*	Establish integrations with third-party software, including Salesforce and SSO services.
-*	Test for system bugs and work with engineering team on resolutions.
-*	Assist customers with technical questions on using the system.
-*	Update documentation with AI-searchable content and latest information.
-*	Write SQL database queries and Python scripts for data collection and analysis.
-
+* Review log and system data to troubleshoot and report issues.
+* Configure integrations with third-party software, including Salesforce and SSO services.
+* Test for system bugs and work with engineering team on resolutions.
+* Assist customers with technical questions on using the system.
+* Update documentation with AI-searchable content and latest information.
+* Write SQL database queries and Python scripts for data collection and analysis.
 
 ### Dobility, Inc
 
@@ -104,6 +103,15 @@ Hopkinton, MA
 March 2025 - May 2025
 
 * Assisted at food bank: tracked inventory of food and supplies; restocked and packaged goods.
+
+### Allston Brighton Community Development Corporation
+
+**Volunteer**  
+Boston, MA
+March 2025 - May 2025
+
+* Worked with children, overseeing after-school activities and enrichment.
+
 
 ## PROJECT EXPERIENCE
 
